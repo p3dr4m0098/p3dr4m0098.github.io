@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
+  name             : "Pedram Khojaste Rad"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
-  location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  bio              : I'm a Computer Engineering student at IUST. I love using programming to have what I need done. I find it like an amazing puzzle sometimes. 
+  location         : "تبریز"
+  email            : pedramkhojasterad@gmail.com
+  # twitter: sauleh_e
+  # linkedin: sauleh
+  # google_scholar: Q25s5KkAAAAJ
+  github: p3dr4m0098
+  instagram: p3dr4m0098
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
