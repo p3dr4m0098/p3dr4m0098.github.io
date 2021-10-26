@@ -141,7 +141,7 @@ author:
       # url: "http://calendly.com/pourrang_atashi"
     - label: "Telegram"
       icon: "fab fa-telegram"
-       url: "http://t.me/p3dr4m0098"
+      url: "http://t.me/p3dr4m0098"
 
 # Site Footer
 footer:
@@ -169,7 +169,7 @@ footer:
       #url: "http://calendly.com/pourrang_atashi"
     - label: "Telegram"
       icon: "fab fa-telegram"
-       url: "http://t.me/p3dr4m0098"
+      url: "http://t.me/p3dr4m0098"
 
 # Reading Files
 include:
