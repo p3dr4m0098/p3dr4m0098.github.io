@@ -21,7 +21,7 @@ My answer to that is that I hope so. I was eager for it when I first thought of 
 
 
 
-![alt text](../assets/images/Website.jpg "My Website")
+![alt text](../assets/images/Website.JPG "My Website")
 ---
 
 *End of the Post*
