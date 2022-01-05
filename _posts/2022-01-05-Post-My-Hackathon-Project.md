@@ -2,7 +2,6 @@
 layout: posts
 title: My Hackathon Project
 ---
-<div align="center">
 ## This is my Hackathon project which I've deployed using the Django framework.
 
 At first, I wanted to make a website that identifies songs for you and brings them up, but when I did some research about it and thought a bit more on it, I realised that I don't have neither the skill nor the knowledge to carry it out, YET.
@@ -23,7 +22,6 @@ My answer to that is that I hope so. I was eager for it when I first thought of 
 
 
 ![alt text](../assets/images/Website.jpg "My Website")
-</div>
 ---
 
 *End of the Post*
